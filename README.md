@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=filipefncolor=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=filipefn&color=blue&style=flat)
 
 ### Hi there! I'm Filipe 👋
 
@@ -9,18 +9,7 @@
 - 🔥 Active open-source contributor and Firebase Advocate 
 - 😄 Pronouns: Ele / Dele
 - ⚡ Fun fact: Keep Learning
-- 📫 How to reach me 
-
-
-### 📫 How to reach me:
-
-<a href="https://github.com/filipefn">
-  <img align="left" alt="Filipe Nunes's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/filipe-nunes-185a1278/">
-  <img align="left" alt="Filipe Nunes's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br/> 
+- 📫 How to reach me: filipe.francisco@stone.com.br
 
 
 ### 🦾 My contributions:
