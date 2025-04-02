@@ -10,11 +10,6 @@
 - 😄 Pronouns: Ele / Dele
 - ⚡ Fun fact: Keep Learning
 
-
-### 🦾 My contributions:
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=filipefn&show_icons=true&theme=dracula)
-
 ## 📫 How to reach me
 
 - 📧 **Email:** [filipe.francisco@stone.com.br](mailto:filipe.francisco@stone.com.br)
